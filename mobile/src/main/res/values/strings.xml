@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WearOsDemo</string>
+    <string name="wearable_api_unavailable">wear os api 不可用</string>
+    <string name="title_activity_data_client">DataClientActivity</string>
 </resources>
